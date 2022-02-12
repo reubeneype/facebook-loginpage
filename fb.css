@@ -126,4 +126,8 @@ body {
 .date{
   border-radius: 5px;
 }
+.create-atag{
+  text-decoration: none;
+  color: #29487d;
+}
 
