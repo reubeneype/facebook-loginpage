@@ -1,0 +1,129 @@
+.header {
+  width: 100%;
+  height: 90px;
+  background-color: #3b5998;
+}
+body {
+  margin: 0;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo {
+  width: 50%;
+  /* color: white; */
+  height: 50px;
+  padding-top: 27px;
+  float: left;
+}
+.logo-text {
+  color: white;
+  font-size: 48px;
+  font-weight: bold;
+  text-decoration: none;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  margin-left: 114px;
+}
+
+.text-box {
+  width: 50%;
+  height: 90px;
+  float: left;
+  padding-top: 1px;
+  /* background-color: white; */
+}
+
+.login-label {
+  color: white;
+  font-size: 13px;
+}
+.login-form {
+  margin-left: 81px;
+}
+.forgotten {
+  color: #9cb4d8;
+  font-size: 13px;
+  text-decoration: none;
+}
+.submit-btn {
+  background-color: #4267b2;
+  color: #fff;
+  border-color: #29487d;
+  height: 29px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.submit-btn:hover {
+  background: green;
+}
+
+.left-sec {
+  width: 50%;
+  float: left;
+}
+.right-sec {
+  width: 30%;
+  float: left;
+}
+.main-body{
+  background: linear-gradient(#eeeff4,#c3cbde);
+  width: 100%;
+  height: 700px;
+}
+.image{
+  width: 92%;
+  height: 318px;
+}
+
+.left-sec{
+  padding-left: 119px;
+  padding-top: 48px;
+}
+.para{
+  font-weight: bold;
+  font-size: 26px;
+  color:#292960;
+}
+
+.name{
+  padding-bottom:20px;
+}
+.surname, .firstname{
+  border-radius: 7px;
+  height: 36px;
+  padding-right: 5px;
+  border-color: aliceblue;
+}
+.email, .password{
+  border-radius: 7px;
+  height: 36px;
+  width: 98%;
+  border-color: aliceblue;
+  margin-bottom: 20px;
+
+}
+.birthday,.gender{
+  font-size: 19px;
+  color: gray;
+  font-weight: bold;
+}
+.terms-policy{
+  font-size: 13px;
+  color: gray;
+}
+.signup-btn{
+  background-color: rgb(82, 138, 27);
+  border-radius: 5px;
+  height: 41px;
+  width: 55%;
+  color: white;
+  font-weight: bold;
+}
+.create-page{
+  font-size: 13px;
+  color: gray;
+  font-weight: bold;
+  padding-top:15px;
+}
+.date{
+  border-radius: 5px;
+}
+
